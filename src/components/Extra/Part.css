@@ -1,0 +1,30 @@
+.part-card{
+    box-shadow: 0 0 80px rgb(173, 172, 172);
+    transition: 1s;
+}
+.part-card:hover{
+     color: black;
+     background: rgb(247, 245, 245);
+    box-shadow:0 0 10px pink,0 0 10px pink, 0 0 80px pink;
+    transition: 1s;
+    cursor: pointer;
+}
+.single-choose>p {
+    position: absolute;
+    right: 10%;
+    font-size: 60px;
+    font-weight: 900;
+    color: black6;
+    opacity: 0.1;
+    font-family: 'Ubuntu', sans-serif;
+    top: 10%;
+    line-height: 60px;
+}
+.why{
+    text-align: center;
+}
+.why1{
+    font-weight: 900;
+    font-size: 60px;
+    color: chocolate;
+}

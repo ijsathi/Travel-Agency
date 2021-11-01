@@ -1,0 +1,12 @@
+.part1 img{
+    width: 100%;
+    height: 420px;
+}
+.middle-img img{
+    width: 50%;
+    height: 50%;
+    border-radius: 50%;
+}
+.part1 h2, p{
+    color: black;
+}

@@ -1,0 +1,11 @@
+.header{
+    /* height: 60px; */
+    background: rgb(201, 6, 103) ;
+    background: -moz-linear-gradient(left, rgb(201, 6, 103) 0%, rgb(248, 204, 212) 100%);
+    background: -webkit-linear-gradient(left, rgb(201, 6, 103) 0%, rgb(248, 204, 212) 100%);
+    background: linear-gradient(to right, rgb(201, 6, 103) 0%, rgb(248, 204, 212) 100%);
+}
+.header img{
+    width: 50%;
+}
+/* rgb(1, 33, 59) */

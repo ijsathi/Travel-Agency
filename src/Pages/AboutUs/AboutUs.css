@@ -1,0 +1,12 @@
+@media only screen and (max-width:600px){
+    .founder img{
+        width: 100%;
+    }
+    .signature{
+        width: 90px;
+    }
+}
+.car h2{
+    color: white;
+    font-weight: bold;
+}

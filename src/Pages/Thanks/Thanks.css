@@ -1,0 +1,16 @@
+.thanks button{
+    width: 200px;
+    padding: 15px 0;
+    text-align: center;
+    margin: 0 10px;
+    border-radius: 25px;
+    font-weight: bold;
+    border: 0px solid rgb(1, 33, 59);
+    background: hotpink ;
+    background: -moz-linear-gradient(left, hotpink 0%, rgb(248, 204, 212) 100%);
+    background: -webkit-linear-gradient(left, hotpink 0%, rgb(248, 204, 212) 100%);
+    background: linear-gradient(to right, hotpink 0%, rgb(248, 204, 212) 100%);
+    color: #fff;
+    cursor: pointer;
+    transition: background 0.5s;
+}
